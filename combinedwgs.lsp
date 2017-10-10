@@ -1,5 +1,5 @@
 ;;
-;; Select folder then combine all DMGs into current open files
+;; Select folder then combine all DMGs into the current open file
 ;;
 
 (defun C:combinedwgs()
